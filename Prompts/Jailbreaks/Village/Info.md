@@ -3,6 +3,6 @@
 ## Info
 
 - Archived and modified Village prompt
-- Not testing if working
+- Not tested if working
 - Creator: Unknown
 - Modder: Exocija
