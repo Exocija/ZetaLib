@@ -5,6 +5,6 @@
 
 Welcome to ZetaLib, a actively developing Library and Archive for anything AI related
 
-```
-Have fun exploring :)
-```
+At the current time ZetaLib is pretty small, since it was created on 5.28.2025
+
+**Have fun exploring :)**
