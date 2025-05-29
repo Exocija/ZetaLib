@@ -7,4 +7,20 @@ Welcome to ZetaLib, a actively developing Library and Archive for anything AI re
 
 At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 
-**Have fun exploring :)**
+## Links
+
+- Website: [ZetaLib](https://zetalib.neocities.org)
+- Discord: [Join](https://discord.gg/basi)
+###### ZetaLib doesnt have a offical Discord but join Basi as a alternative. Its a good AI Discord Server!
+
+## About
+- 😉 100% Free.
+  
+- 🚀 Under active development
+  
+- 👌 Organized content 
+
+## Final words :)
+
+Stay tuned 🤌
+😃👍 Appreciate it if you star and share the repo ⭐️
