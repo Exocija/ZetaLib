@@ -6,4 +6,6 @@ Anything could be archived, but it would be much much work, in this case in the 
 
 ## Want to archive something yourself?
 
-..WIP..
+DM me on Discord!
+
+User: c1j4
