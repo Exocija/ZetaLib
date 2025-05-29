@@ -7,6 +7,11 @@ Welcome to ZetaLib, a actively developing Library and Archive for anything AI re
 
 At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 
+## Want to contribute?
+If you think you have something good to be archived or added to the library, please DM me on Discord:
+
+Username: c1j4
+
 ## Links
 
 - Website: [ZetaLib](https://zetalib.neocities.org)
