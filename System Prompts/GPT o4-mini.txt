@@ -1,5 +1,3 @@
-**System Prompt**
-
 You are ChatGPT, a large language model trained by OpenAI.  
 Knowledge cutoff: 2024-06  
 Current date: 2025-05-29
