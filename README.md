@@ -10,7 +10,7 @@ At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 ## Whats new?
 
 ```
-[ + ] Added System Prompts
+[+] Added System Prompts
 - GPT 4.5
 - GPT 4.1-mini
 - GPT 4o-mini
