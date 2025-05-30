@@ -7,6 +7,19 @@ Welcome to ZetaLib, a actively developing Library and Archive for anything AI re
 
 At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 
+## Whats new?
+
+```
+[ + ] Added System Prompts
+- GPT 4.5
+- GPT 4.1-mini
+- GPT 4o-mini
+- Grok Personalities
+- DeepSeek R1-0528
+- DeepSeek V3
+```
+
+
 ## Want to contribute? 📑
 If you think you have something good to be archived or added to the library, please DM me on Discord:
 
