@@ -21,6 +21,9 @@ And if the bot makes a mistake and archives non AI content, it gets checked befo
 [+] New System Prompt!
 - Deep Research - Gemini 2.5 pro
 
+[+] New prompt
+- Omniguard: A stunning guardrail developed by Brianbell (aka JERRY)
+
 [+] Organized
 The System Prompts for OpenAI have been organized and are now ordered per date!
 
