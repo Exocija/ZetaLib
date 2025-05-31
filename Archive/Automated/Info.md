@@ -1,6 +1,6 @@
-# Automated Archive
+# Automated Archive ⚡️
 
-Welcome to the automated archive, where bots search and share!
+Welcome to the automated archive, where bots search and share! 🧙‍♂️
 
 ## How it works:
 1. ZetaLib's bot searches the web and archives new quality content
