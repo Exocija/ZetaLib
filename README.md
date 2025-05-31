@@ -21,6 +21,9 @@ And if the bot makes a mistake and archives non AI content, it gets checked befo
 [+] New System Prompt!
 - Deep Research - Gemini 2.5 pro
 
+[+] Organized
+The System Prompts for OpenAI have been organized and are now ordered per date!
+
 [5.30.2025]
 [+] Added System Prompts
 - GPT 4.5
