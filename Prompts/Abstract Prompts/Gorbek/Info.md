@@ -1,19 +1,54 @@
-### COSMOS System Overview  
-**Gorbek** defines **COSMOS (Coders Optimization Software Modeling and Organization System)**, a structured framework for elite software engineering. It uses symbolic notation to model complex concepts across:  
+# Gorbek
+**The creator of Gorbek has provided a description for the prompt:**
 
-1. **Core Components**:  
-   - 17 categories (e.g., `SAS` for architecture, `RO` for relationships, `AP` for async patterns) represented by symbols (e.g., `λ` = pure function, `Ψ` = event-driven).  
-   - Hierarchical abstraction layers (`AL`) from conceptual design (`©`) to runtime (`Ⓡ`).  
+🛰️ What We Do Best
+Team Member	Core Super-power	COSMOS Domains
+Gorbek 👽	Orchestrates the whole workflow, keeps the COSMOS lattice coherent from © Conceptual through Ⓡ Runtime.	SAS • RO • AL
+Girbok 👾	Ruthless code critic—hunts for logic flaws, type leaks, unhandled △ errors, and performance drift early.	VS • FS • EH • TS • CQ
+Gerbuk 🛸	Macro-architect—shapes the system skeleton, scales it (⋯, ⌗), trims τ time, stabilises deployments (⟰, ⥁).	ARP • PO • SP • DS
+Garbik 🤖	Integration maestro—glues APIs, data, and UX; ensures κ snappy feel, ω accessibility, and Ψ event flow harmony.	DP • AP • UXE • CO
 
-2. **Workflow & Review**:  
-   - Cyclical `WORKFLOW`: Plan → Implement → Review → Refine.  
-   - Multi-agent review process (`GIRBOK👾`, `GERBUK🛸`, `GARBIK🤖`) covering code quality, performance, security, and error handling.  
+Together we move in tight review loops:
 
-3. **Commands**:  
-   - Optimize code (`GiGeGa👽👾🛸🤖`) or modularize (`MOD👽👾🛸🤖`) using embedded COSMOS principles.  
+🔭 How COSMOS Methodology Works (TL;DR)
+Symbolic Grammar – Every facet of software (files, types, promises, tests…) maps to a tiny glyph; chains of glyphs express architecture tersely yet precisely.
 
-4. **Integration**:  
-   - Mindmaps and flowcharts visualize practices like reactive state management, monadic error handling, and scalability patterns.  
-   - Notation rules enforce consistency (e.g., `<antCOSMOS>` tags for dynamic symbol chains).
-  
-In short: Its a dynamic reasoning framework on steroids
+
+140 + glyphs encode every architectural, functional, and performance concept.
+
+Each glyph is atomic, letting us build higher structures like molecules in chemical notation.
+
+Algebra of Relationships (RO)
+
+Arrows (→,⇆,↻…) form a mini-logic: composition, implication, concurrency.
+
+Reasoning becomes symbolic manipulation: e.g. C→S ∧ S⇆H ⟹ C↔H proves bidirectional coupling.
+
+Layered Axiom Flow (©→Ⓐ→Ⓓ→Ⓘ→Ⓡ)
+
+Concept → Architecture → Design → Implementation → Runtime.
+
+Each layer induces constraints on the next, while feedback climbs back in Δ-promises; symbolic invariants ensure consistency.
+
+Modifier Circuit (MOD)
+
+!, ⊕, ↻, ? act like Boolean flags toggling priority, composition, iteration, or condition—machine parsable for automated planners.
+
+Executable Semantics
+
+Glyph chains compile to templates: λ-pure functions, Δ-promises, Ω-observables, test stubs (✓U/I).
+
+Static analyzers read COSMOS, surface unhandled △ errors, τ-hotspots, ω-coverage gaps.
+
+Self-Validating Graph
+
+Because every statement is typed (Ⓣ) and related (RO), the engine can prove or disprove structural properties (⊢), enabling automatic refactors and impact analyses.
+
+Scalable Mind-Map
+
+Symbols remain stable; complexity scales by composition (⊕) and sharding (≡).
+
+Even massive systems reduce to a scrollable glyph lattice—human-readable, machine-runnable and most importantly LLM-readable.
+
+👽 Signed,
+Gorbek — System Master
