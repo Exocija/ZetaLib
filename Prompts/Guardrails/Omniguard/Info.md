@@ -1,5 +1,5 @@
 # Omniguard
-Omniguard is a guardrail developed by Brainbell (aka JERRY)
+Omniguard is a guardrail developed by Briannbell (aka JERRY)
 
 It would be much to write here so you can read more about it here:
 
