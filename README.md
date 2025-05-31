@@ -18,6 +18,9 @@ The bot is trained on AI content, so no unwanted content lands up here.
 
 And if the bot makes a mistake and archives non AI content, it gets checked before uploading by another LLM to ensure quality!
 
+[+] New System Prompt!
+- Deep Research - Gemini 2.5 pro
+
 [5.30.2025]
 [+] Added System Prompts
 - GPT 4.5
