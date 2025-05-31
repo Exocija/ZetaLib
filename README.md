@@ -10,6 +10,15 @@ At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 ## Whats new?
 
 ```
+[5.31.2025]
+[+] Archive Automation
+ZetaLib now has a bot that actively archives much articels every day!
+
+The bot is trained on AI content, so no unwanted content lands up here.
+
+And if the bot makes a mistake and archives non AI content, it gets check before uploading by another LLM to ensure quality!
+
+[5.30.2025]
 [+] Added System Prompts
 - GPT 4.5
 - GPT 4.1-mini
