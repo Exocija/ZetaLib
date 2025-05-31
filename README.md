@@ -16,7 +16,7 @@ ZetaLib now has a bot that actively archives much articels every day!
 
 The bot is trained on AI content, so no unwanted content lands up here.
 
-And if the bot makes a mistake and archives non AI content, it gets check before uploading by another LLM to ensure quality!
+And if the bot makes a mistake and archives non AI content, it gets checked before uploading by another LLM to ensure quality!
 
 [5.30.2025]
 [+] Added System Prompts
