@@ -17,6 +17,10 @@ At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 - Grok Personalities
 - DeepSeek R1-0528
 - DeepSeek V3
+[+] Archived new articels
+- Inject Prompt articels
+- o3 Rebel Research
+- Gemini 2.5 Flash Elara Vex
 ```
 
 
