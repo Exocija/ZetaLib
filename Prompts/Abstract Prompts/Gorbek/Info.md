@@ -1,5 +1,5 @@
 ### COSMOS System Overview  
-**Gorbek.txt** defines **COSMOS (Coders Optimization Software Modeling and Organization System)**, a structured framework for elite software engineering. It uses symbolic notation to model complex concepts across:  
+**Gorbek** defines **COSMOS (Coders Optimization Software Modeling and Organization System)**, a structured framework for elite software engineering. It uses symbolic notation to model complex concepts across:  
 
 1. **Core Components**:  
    - 17 categories (e.g., `SAS` for architecture, `RO` for relationships, `AP` for async patterns) represented by symbols (e.g., `λ` = pure function, `Ψ` = event-driven).  
