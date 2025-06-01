@@ -17,11 +17,6 @@ Grok 3
 Also probably o3
 ```
 ### Info
-I will test it on more models soon! 🫡
-
-(Gemini 2.5 Pro accepts the instructions, however I reached my limit, I couldnt stress test on harmful topics
-
-Also reached my limit on GPT)
 
 • Creator: Ghostbyte
 
