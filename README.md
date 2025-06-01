@@ -13,7 +13,7 @@ At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 [6.1.2025]
 [+] New Articels
 - New articels have been added
-(Added by ZetaLib's bot)
+(Automation Archive)
 
 [5.31.2025]
 [+] Archive Automation
