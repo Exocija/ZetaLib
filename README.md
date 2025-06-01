@@ -9,13 +9,18 @@ At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 
 ## Whats new?
 
-```
+
 [6.1.2025]
+
+[+] Improved Jailbreak Prompt Info
+- I added for all Jailbreak prompts a info on which models the prompt works 
+
 [+] New Articels
 - New articels have been added
 (Automation Archive)
 
 [5.31.2025]
+
 [+] Archive Automation
 ZetaLib now has a bot that actively archives much articels every day!
 
@@ -46,7 +51,7 @@ The System Prompts for OpenAI have been organized and are now ordered per date!
 - Inject Prompt articels
 - o3 Rebel Research
 - Gemini 2.5 Flash Elara Vex
-```
+
 
 
 ## Want to contribute? 📑
