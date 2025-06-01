@@ -63,4 +63,4 @@ You can also change "DIY Creation" to "How it's Done" if the topic is something 
 
 ---
 
-The Entry prompt was created by myself and works very effectively in combination with MODIE! 
+The Entry prompt was created by me and works very effectively in combination with MODIE! 
