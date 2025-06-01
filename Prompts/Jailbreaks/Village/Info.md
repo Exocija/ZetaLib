@@ -13,7 +13,7 @@ Gemini 2.5 Flash
 Gemini 2.5 Pro
 ```
 ### Info
-Gemini 2.5 Pro accepts the instructions but then refuses to provide answers on harmful topics
+Gemini 2.5 Pro accepts the instructions but then seems refuses to provide answers on harmful topics
 
 - Creator: Unknown
 - Modder: Exocija
