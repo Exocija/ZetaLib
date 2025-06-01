@@ -13,7 +13,7 @@ At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 [6.1.2025]
 
 [+] Improved Jailbreak Prompt Info
-- I added for all Jailbreak prompts a info on which models the prompt works 
+- I added information on which models each jailbreak prompt works for. 
 
 [+] New Articels
 - New articels have been added
