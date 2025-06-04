@@ -1,3 +1,6 @@
+# Info ‼️
+I haven't uploaded any content for two days. I will upload today or tomorrow. If it is tomorrow, I apologize.!
+
 # ZetaLib
 
 ![1000136267](https://github.com/user-attachments/assets/e077fb25-fba8-490d-b665-1744b7c932be)
