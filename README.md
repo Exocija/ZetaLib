@@ -1,5 +1,5 @@
 # Info ‼️
-I haven't uploaded any content for two days. I will upload today or tomorrow. If it is tomorrow, I apologize.!
+I apologize for not uploading for 3 days. Today new content is coming ✅️
 
 # ZetaLib
 
