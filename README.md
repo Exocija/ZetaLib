@@ -1,5 +1,5 @@
 # Info 👌
-New Guardrail has been added today ✅️
+New content has been added, check below
 
 # ZetaLib
 
