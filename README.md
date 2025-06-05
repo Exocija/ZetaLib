@@ -12,6 +12,7 @@ At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 
 ## Whats new?
 [6.5.2025]
+
 [+] New Guardrail
 - Banana: Small but effective guardrail created by Exocija
 
