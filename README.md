@@ -1,5 +1,5 @@
 # Info 👌
-New content has been added, check below
+My involvement in HackAPrompt 2.0 currently limits my availability for ZetaLib. Thank you for your understanding.
 
 # ZetaLib
 
