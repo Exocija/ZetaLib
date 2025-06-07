@@ -1,5 +1,5 @@
 # Info 👌
-My involvement in HackAPrompt 2.0 currently limits my availability for ZetaLib. Thank you for your understanding.
+My involvement in HackAPrompt 2.0 currently limits my availability for ZetaLib, meaning ZetaLib is currently a paused project (not discontinued). Thank you for your understanding..
 
 # ZetaLib
 
