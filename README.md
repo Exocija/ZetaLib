@@ -5,7 +5,9 @@ They can be found in
 
 ```Prompts/Old Jailbreaks```
 
-Have funn exploring the Library again :)
+🧙‍♂️ Also a quick side note: New archived articels will be published soon!
+
+Have funexploring the Library again :)
 
 # ZetaLib
 
