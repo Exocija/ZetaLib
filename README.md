@@ -17,6 +17,7 @@ Have fun exploring the Library again :)
 Welcome to ZetaLib, a actively developing Library and Archive for anything AI related
 
 🫡 Thanks for 20 ⭐️
+
 This means alot :)
 
 ## Want to contribute? 📑
