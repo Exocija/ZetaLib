@@ -5,7 +5,11 @@ They can be found in
 
 ```Prompts/Old Jailbreaks```
 
-🧙‍♂️ Also a quick side note: New archived articels will be published soon!
+### New articels 📑
+
+New articels also have been archived and added to
+
+```Archive/Automated/Explore/6.21.2025```
 
 Have fun exploring the Library again :)
 
