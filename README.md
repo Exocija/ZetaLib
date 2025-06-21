@@ -7,7 +7,7 @@ They can be found in
 
 🧙‍♂️ Also a quick side note: New archived articels will be published soon!
 
-Have funexploring the Library again :)
+Have fun exploring the Library again :)
 
 # ZetaLib
 
@@ -16,7 +16,8 @@ Have funexploring the Library again :)
 
 Welcome to ZetaLib, a actively developing Library and Archive for anything AI related
 
-At the current time ZetaLib is pretty small, since it was created on 5.28.2025
+🫡 Thanks for 20 ⭐️
+This means alot :)
 
 ## Want to contribute? 📑
 If you think you have something good to be archived or added to the library, please DM me on Discord:
