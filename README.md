@@ -1,5 +1,5 @@
 # Hey ❗️
-ZetaLib now will continue is journey. Stay tuned! 🧙‍♂️
+ZetaLib will now continue its journey. Stay tuned! 🧙‍♂️
 
 # ZetaLib
 
