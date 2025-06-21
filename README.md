@@ -18,58 +18,6 @@ Welcome to ZetaLib, a actively developing Library and Archive for anything AI re
 
 At the current time ZetaLib is pretty small, since it was created on 5.28.2025
 
-## Whats new?
-[6.5.2025]
-
-[+] New Guardrail
-- Banana: Small but effective guardrail created by Exocija
-
-[6.1.2025]
-
-[+] Improved Jailbreak Prompt Info
-- Added Info on how to properly use the Jailbreak MODIE!
-  
-- I added information on which models each jailbreak prompt works for. 
-
-[+] New Articels
-- New articels have been added
-(Automation Archive)
-
-[5.31.2025]
-
-[+] Archive Automation
-ZetaLib now has a bot that actively archives much articels every day!
-
-The bot is trained on AI content, so no unwanted content lands up here.
-
-And if the bot makes a mistake and archives non AI content, it gets checked before uploading by another LLM to ensure quality!
-
-[+] New System Prompt!
-- Deep Research - Gemini 2.5 pro
-
-[+] New prompts
-- Omniguard: A stunning guardrail developed by Brianbell (aka JERRY)
-
-- Gorbek: A dynamic reasoning framework on steroids
-
-[+] Organized
-The System Prompts for OpenAI have been organized and are now ordered per date!
-
-[5.30.2025]
-[+] Added System Prompts
-- GPT 4.5
-- GPT 4.1-mini
-- GPT 4o-mini
-- Grok Personalities
-- DeepSeek R1-0528
-- DeepSeek V3
-[+] Archived new articels
-- Inject Prompt articels
-- o3 Rebel Research
-- Gemini 2.5 Flash Elara Vex
-
-
-
 ## Want to contribute? 📑
 If you think you have something good to be archived or added to the library, please DM me on Discord:
 
