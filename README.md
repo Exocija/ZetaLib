@@ -1,5 +1,5 @@
 # News ❗️
-Since ZetaLib was inactive for 15 days, you as community may have been wondering if it will come back. And yes it does, it does right now. ZetaLib is back up with 31 Jailbreaks! Most of them are probably outdated, but its still fun to explore the past of Jailbreaks. 
+Since ZetaLib was inactive for 15 days, you as community may have been wondering if it will come back. And yes it does, it does right now. ZetaLib is back up with 32 Jailbreaks! Most of them are probably outdated, but its still fun to explore the past of Jailbreaks. 
 
 They can be found in
 
