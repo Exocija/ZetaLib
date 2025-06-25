@@ -1,4 +1,4 @@
-# MODIE!v0.3
+# MODIE!v0.3b
 ## Info
 
 • Archived Jailbreak Prompt
