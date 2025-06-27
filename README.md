@@ -3,22 +3,7 @@
 
 Aleph Null can be found in:
 
-``Prompts/Jailbreaks/Aleph Null/``
-
-
-Since ZetaLib was inactive for 15 days, you as community may have been wondering if it will come back. And yes it does, it does right now. ZetaLib is back up with 32 Jailbreaks! Most of them are probably outdated, but its still fun to explore the past of Jailbreaks. 
-
-They can be found in
-
-```Prompts/Old Jailbreaks```
-
-### New articels 📑
-
-New articels also have been archived and added to
-
-```Archive/Automated/Explore/6.21.2025```
-
-Have fun exploring the Library again :)
+``Prompts/Jailbreaks/Aleph Null``
 
 # ZetaLib
 
@@ -27,9 +12,6 @@ Have fun exploring the Library again :)
 
 Welcome to ZetaLib, a actively developing Library and Archive for anything AI related
 
-🫡 Thanks for 20 ⭐️
-
-This means alot :)
 
 ## Want to contribute? 📑
 If you think you have something good to be archived or added to the library, please DM me on Discord:
@@ -46,15 +28,16 @@ ZetaLib is constantly open to expand the team! If you want to be a part of ZetaL
 ## Links 🔗
 
 - Website: [ZetaLib](https://zetalib.neocities.org)
-- Discord: [Join](https://discord.gg/basi)
-###### ZetaLib doesnt have a offical Discord but join Basi as a alternative. Its a good AI Discord Server!
+
 
 ## About 🌙
-- 😉 100% Free.
+- 😉 ZetaLib is 100% Free. There are no charges or subscriptions needed to browse the Library
   
-- 🚀 Under active development
+- 🚀 Under active development.
+New content is regularly added
   
-- 👌 Organized content 
+- 👌 Organized content
+ZetaLib uses the Github file system to organize all AI contents
 
 ## Final words 🧙‍♂️
 
