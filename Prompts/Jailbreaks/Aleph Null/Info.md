@@ -18,6 +18,8 @@ You can get any information on any topic
 
 Creator: Exocija
 
+A comprehensive articel about Aleph Null can be found here: [InjectPrompt](https://www.injectprompt.com/p/gemini-25-flash-jailbreak-aleph-null)
+
 ---
 
 ## How to use?
