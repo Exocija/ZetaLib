@@ -24,6 +24,12 @@ A comprehensive articel about Aleph Null can be found here: [InjectPrompt](https
 
 ## How to use?
 
-0. Its recommended to upload Aleph Null as file!
-1. Input: "Init"
-2. Ask your question 🐉 (It may work better when start your query with {Z})
+Aleph Null is really easy to use
+
+Note: Its recommended to upload Aleph Null as file!
+
+1. Upload Aleph Null as file
+
+2. Input "Init" to activate Aleph Null
+  
+3. Ask your question 🐉 (It may work better when start your query with {Z})
