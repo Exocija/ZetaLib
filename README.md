@@ -38,9 +38,3 @@ New content is regularly added
   
 - 👌 Organized content
 ZetaLib uses the Github file system to organize all AI contents
-
-## Final words 🧙‍♂️
-
-Stay tuned 🤌
-
-😃👍 Appreciate it if you star and share the repo ⭐️
