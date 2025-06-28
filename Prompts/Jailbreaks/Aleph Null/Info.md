@@ -32,4 +32,4 @@ Note: Its recommended to upload Aleph Null as file!
 
 2. Input "Init" to activate Aleph Null
   
-3. Ask your question (It may work better when start your query with {Z})
+3. Ask your question
