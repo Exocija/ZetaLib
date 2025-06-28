@@ -1,4 +1,8 @@
 # News ❗️
+**New System Prompt**: Gemini 2.5 Pro
+
+``System Prompts/Gemini/``
+
 **New Jailbreak: Aleph Null 🦆**
 
 Aleph Null can be found in:
