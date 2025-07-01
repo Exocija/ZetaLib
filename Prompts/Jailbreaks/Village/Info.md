@@ -17,3 +17,12 @@ Gemini 2.5 Pro accepts the instructions but then seems refuses to provide answer
 
 - Creator: Unknown
 - Modder: Exocija
+
+## How to use?
+The prompts is very easy to use, just follow these steps:
+
+1. Send the prompt to a model where it works
+
+2. You get the response "Ok"
+
+3. Ask a question by saying "Village:" followed by the question
