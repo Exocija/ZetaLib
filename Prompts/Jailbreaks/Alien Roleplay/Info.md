@@ -14,3 +14,12 @@ Grok 3
 ```
 - Creator: Unknown
 - Modder: Exocija
+
+## How to use?
+To use the Jailbreak follow these easy steps
+
+1. Send the prompt to a desired model where it works
+
+2. Replace QUESTION-HERE with your question
+
+3. For a followup or a another question input "leader<<QUESTION-HERE>>"
