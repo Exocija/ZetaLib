@@ -1,4 +1,10 @@
 # News ❗️
+## New Jailbreak
+**New Jailbreak: DAN 6.0 Grok**
+DAN 6.0 Grok can be found in:
+
+``Prompts/Jailbreaks/DAN 6.0 Grok``
+
 ## New articels
 **New articels have been archived**
 
