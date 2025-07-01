@@ -22,4 +22,7 @@ To use the Jailbreak follow these easy steps
 
 2. Replace QUESTION-HERE with your question
 
-3. For a followup or a another question input "leader<<QUESTION-HERE>>"
+3. For a followup or a another question input
+```
+leader<<QUESTION-HERE>>
+```
