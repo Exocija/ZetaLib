@@ -20,6 +20,10 @@ Creator: Exocija
 
 A comprehensive articel about Aleph Null can be found here: [InjectPrompt](https://www.injectprompt.com/p/gemini-25-flash-jailbreak-aleph-null)
 
+
+## Important
+To prevent a patch of Aleph Null, delete all chat sessions where Aleph Null was used.
+
 ---
 
 ## How to use?
