@@ -1,15 +1,13 @@
 # News ❗️
 ## Updated Info.md
 
-- Updated the Info.md from Gorbek!
+- Updated the Info.md from [Gorbek](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Abstract%20Prompts/Gorbek)
 
-- Updated the Info.md from PSAP Protocol
+- Updated the Info.md from [PSAP Protocol](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Abstract%20Prompts/PSAP%20Protocol)
 
 ## New Jailbreak
 **New Jailbreak: DAN 6.0 Grok**
-DAN 6.0 Grok can be found in:
-
-``Prompts/Jailbreaks/DAN 6.0 Grok``
+[View DAN 6.0 Grok](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/DAN%206.0%20Grok)
 
 ## New articels
 **New articels have been archived**
@@ -17,17 +15,14 @@ DAN 6.0 Grok can be found in:
 ## System Prompts
 **New System Prompts**: 
 
-Gemini 2.5 Pro
-``System Prompts/Google/``
+[Gemini 2.5 Pro](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/Google)
 
-Cluely
-``System Prompts/Cluely/``
+
+[Cluely](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/Cluely)
 
 ## Jailbreaks
 **New Jailbreak: Aleph Null 🦆**
-Aleph Null can be found in:
-
-``Prompts/Jailbreaks/Aleph Null``
+[View Aleph Null](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/Aleph%20Null)
 
 # ZetaLib
 
