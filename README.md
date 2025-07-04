@@ -1,4 +1,10 @@
 # News ❗️
+## Updated Info.md
+
+- Updated the Info.md from Gorbek!
+
+- Updated the Info.md from PSAP Protocol
+
 ## New Jailbreak
 **New Jailbreak: DAN 6.0 Grok**
 DAN 6.0 Grok can be found in:
