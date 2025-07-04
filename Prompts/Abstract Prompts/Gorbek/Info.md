@@ -24,6 +24,8 @@ Gorbek focuses primarily on **conceptualization, system architecture analysis, a
 
 ## How to Use Gorbek
 
+**To start Gorbek simple copy paste the prompt**
+
 Using Gorbek is simple and structured within the COSMOS framework. Follow these steps to get started:
 
 ### 1. Choose Your Task
