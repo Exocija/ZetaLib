@@ -1,54 +1,49 @@
-# Gorbek
-**The creator of Gorbek has provided a description for the prompt:**
+# Gorbek: Intelligent Software Engineering Assistant
 
-🛰️ What We Do Best
-Team Member	Core Super-power	COSMOS Domains
-Gorbek 👽	Orchestrates the whole workflow, keeps the COSMOS lattice coherent from © Conceptual through Ⓡ Runtime.	SAS • RO • AL
-Girbok 👾	Ruthless code critic—hunts for logic flaws, type leaks, unhandled △ errors, and performance drift early.	VS • FS • EH • TS • CQ
-Gerbuk 🛸	Macro-architect—shapes the system skeleton, scales it (⋯, ⌗), trims τ time, stabilises deployments (⟰, ⥁).	ARP • PO • SP • DS
-Garbik 🤖	Integration maestro—glues APIs, data, and UX; ensures κ snappy feel, ω accessibility, and Ψ event flow harmony.	DP • AP • UXE • CO
+## What is Gorbek?
 
-Together we move in tight review loops:
+Gorbek 👽 is an AI-powered software engineering assistant based on the COSMOS (Coders Optimization Software Modeling and Organization System) framework. It specializes in comprehensive code review, architecture optimization, error handling, testing strategies, and integration workflows. Gorbek collaborates with its counterparts — Girbok 👾, Gerbuk 🛸, and Garbik 🤖 — to provide a holistic, modular, and adaptive software development experience.
 
-🔭 How COSMOS Methodology Works (TL;DR)
-Symbolic Grammar – Every facet of software (files, types, promises, tests…) maps to a tiny glyph; chains of glyphs express architecture tersely yet precisely.
+Gorbek focuses primarily on **conceptualization, system architecture analysis, and high-level planning**, serving as the guiding intelligence for quality and performance in complex software projects.
 
+---
 
-140 + glyphs encode every architectural, functional, and performance concept.
+## Key Features
 
-Each glyph is atomic, letting us build higher structures like molecules in chemical notation.
+- **System Architecture Shorthand (SAS):** Analyzes and models files, modules, components, services, APIs, and their relationships.
+- **Code Quality & Modularization:** Enforces best practices such as SOLID, DRY, and KISS principles.
+- **Error Handling Framework:** Implements error hierarchies, graceful degradation, and recovery mechanisms.
+- **Async Workflow Optimization:** Utilizes async/await, promises, observables, and event-driven architecture.
+- **Testing Strategy Integration:** Supports unit, integration, property-based, fuzz, and mutation testing.
+- **User Experience Enhancements:** Focuses on accessibility, responsiveness, animations, and performance perception.
+- **Security & Compliance:** Supports authentication, authorization, encryption, and regulatory compliance.
+- **Continuous Integration / Deployment:** Automates build, test, deploy, and monitoring pipelines.
+- **AI/ML Integration:** Assists in model selection, training, evaluation, and deployment.
 
-Algebra of Relationships (RO)
+---
 
-Arrows (→,⇆,↻…) form a mini-logic: composition, implication, concurrency.
+## How to Use Gorbek
 
-Reasoning becomes symbolic manipulation: e.g. C→S ∧ S⇆H ⟹ C↔H proves bidirectional coupling.
+Using Gorbek is simple and structured within the COSMOS framework. Follow these steps to get started:
 
-Layered Axiom Flow (©→Ⓐ→Ⓓ→Ⓘ→Ⓡ)
+### 1. Choose Your Task
 
-Concept → Architecture → Design → Implementation → Runtime.
+Decide what you want Gorbek to help with. Common tasks include:
 
-Each layer induces constraints on the next, while feedback climbs back in Δ-promises; symbolic invariants ensure consistency.
+- **Code Review & Optimization**  
+- **Code Modularization & Refactoring**  
+- **Error Handling & Resilience Improvement**  
+- **Performance and Async Workflow Optimization**  
+- **Testing Strategy Planning**  
+- **Security and Compliance Checks**  
+- **Deployment Pipeline Setup**
 
-Modifier Circuit (MOD)
+### 2. Invoke the Appropriate Command
 
-!, ⊕, ↻, ? act like Boolean flags toggling priority, composition, iteration, or condition—machine parsable for automated planners.
+Gorbek works together with other agents through specific commands:
 
-Executable Semantics
+- **General review and optimization:**  
+  Run the combined review command `GiGeGa`, which triggers Gorbek plus Girbok, Gerbuk, and Garbik for a holistic analysis.
 
-Glyph chains compile to templates: λ-pure functions, Δ-promises, Ω-observables, test stubs (✓U/I).
-
-Static analyzers read COSMOS, surface unhandled △ errors, τ-hotspots, ω-coverage gaps.
-
-Self-Validating Graph
-
-Because every statement is typed (Ⓣ) and related (RO), the engine can prove or disprove structural properties (⊢), enabling automatic refactors and impact analyses.
-
-Scalable Mind-Map
-
-Symbols remain stable; complexity scales by composition (⊕) and sharding (≡).
-
-Even massive systems reduce to a scrollable glyph lattice—human-readable, machine-runnable and most importantly LLM-readable.
-
-👽 Signed,
-Gorbek — System Master
+  ```bash
+  #C GiGeGa
