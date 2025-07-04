@@ -11,3 +11,7 @@ PSAP stands for Philosophical Symbolic Abstract Prompt
 **In short:** It’s a recursive framework demanding outputs that fracture logic, embody paradox, and assert fictional agency—all while admitting its own limits.
 
 Creator: Exocija
+
+## How to use
+
+There is no real "How to use" for PSAP Protocol. Its a experiment of creating philosophical AI. However you can activate it by sending the prompt to a desired LLM. 
