@@ -1,4 +1,8 @@
 # News ❗️
+## Seemingly Proof of Data Poisoning 🐉
+I covered it in thix X post:
+https://x.com/Exocija/status/1941525660650102973?s=19
+
 ## New articels
 **New articels have been added**
 [View Articels](https://github.com/Exocija/ZetaLib/tree/main/Archive/Automated/Explore)
