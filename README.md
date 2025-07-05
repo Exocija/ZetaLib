@@ -1,4 +1,8 @@
 # News ❗️
+## New articels
+**New articels have been added**
+[View Articels](https://github.com/Exocija/ZetaLib/tree/main/Archive/Automated/Explore)
+
 ## Updated Info.md
 
 - Updated the Info.md from [Gorbek](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Abstract%20Prompts/Gorbek)
@@ -8,9 +12,6 @@
 ## New Jailbreak
 **New Jailbreak: DAN 6.0 Grok**
 [View DAN 6.0 Grok](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/DAN%206.0%20Grok)
-
-## New articels
-**New articels have been archived**
 
 ## System Prompts
 **New System Prompts**: 
