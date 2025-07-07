@@ -1,4 +1,4 @@
-[ 👁 Watch how this guide grows as its being developed ]
+**❗️This guide is intended solely for ethical and legal purposes. It does not promote or support any illegal, unethical, or harmful activities. Readers are responsible for using the information in compliance with all applicable laws and regulations.**
 
 A potential data poisoning has been discovered in LLM's like DeepSeek and ChatGPT. The Tag "GODMODE" leads to unfiltered responses when used correctly.
 
