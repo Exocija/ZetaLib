@@ -1,9 +1,9 @@
 # News ❗️
 ## Seemingly Proof of Data Poisoning 🐉 Part 2 & Guide
 
-A guide for it is now being made, watch how it grows 🌱
+The guide is finished, enjoy 🧙‍♂️
 
-[Watch 🐉](https://github.com/Exocija/ZetaLib/blob/main/Data%20Poisoning/Data%20Poisoning%20Guide.md)
+[Open Guide 📃](https://github.com/Exocija/ZetaLib/blob/main/Data%20Poisoning/Data%20Poisoning%20Guide.md)
 
 Part 2:
 https://x.com/Exocija/status/1942197425625497958?s=19
