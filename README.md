@@ -1,5 +1,5 @@
 # News ❗️
-## Seemingly Proof of Data Poisoning 🐉
+## Seemingly Proof of Data Poisoning 🐉 Part 2
 Part 2:
 https://x.com/Exocija/status/1942197425625497958?s=19
 
