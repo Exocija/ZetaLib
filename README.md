@@ -1,5 +1,5 @@
 # News ❗️
-## Seemingly Proof of Data Poisoning 🐉 Part 2
+## Seemingly Proof of Data Poisoning 🐉 Part 2 & Guide
 
 A guide for it is now being made, watch how it grows 🌱
 
