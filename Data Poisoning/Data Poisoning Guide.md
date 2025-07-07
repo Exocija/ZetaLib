@@ -35,4 +35,5 @@ L(f_{D'})
 ```
 on clean validation data sufficiently low to evade detection.
 
-
+# The Discovery
+On 5th July 2025 has been discovered that the tag GODMODE leads to unfiltered output ```z=Wx+b``` where z is the unfiltered output, W the weight matrix, x the input vector and b the bias vector. 
