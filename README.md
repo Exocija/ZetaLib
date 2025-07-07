@@ -1,6 +1,9 @@
 # News ❗️
 ## Seemingly Proof of Data Poisoning 🐉
-I covered it in this X post:
+Part 2:
+https://x.com/Exocija/status/1942197425625497958?s=19
+
+Part 1:
 https://x.com/Exocija/status/1941525660650102973?s=19
 
 ## New articels
