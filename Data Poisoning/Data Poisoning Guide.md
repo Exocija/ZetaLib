@@ -11,15 +11,28 @@ In this guide it will be covered how to reproduce it. The guide will cover the f
 
 
 # Whats Data Poisoning 
-Data poisoning is a class of adversarial attacks in machine learning where an attacker injects maliciously crafted samples into the training dataset to influence the behavior of the resulting model. The objective can range from degrading overall model performance to inducing specific misclassifications under targeted conditions.
+What is Data Poisoning?
+Data poisoning is an adversarial technique in machine learning where an attacker injects malicious samples into the training set to influence model behavior. The attacker modifies the original dataset D into
 
-From a formal perspective, consider a learning algorithm  that trains a model  on dataset . In a poisoning scenario, the attacker modifies the dataset to , where  is a small set of poisoned examples. The attack aims to optimize an adversarial objective , potentially while maintaining low validation loss on clean data to avoid detection.
+D' = D ∪ D_p
 
-There are two main types:
+where D_p is a small collection of poisoned examples crafted to optimize some adversarial objective, yet still pass clean-data validation.
 
-Availability attacks, which aim to reduce the model's overall accuracy by perturbing class distributions or injecting mislabeled/noisy data.
+Two main attack classes:
 
-Integrity (or targeted) attacks, which subtly manipulate the model to misclassify specific inputs. A common variant is the backdoor attack, where a trigger pattern in the input reliably causes misclassification.
+Availability attacks degrade overall accuracy by introducing noisy or mislabeled data.
+
+Integrity (targeted) attacks force specific misclassifications. A common subtype is the backdoor attack, where the model behaves normally except when a trigger pattern is present.
 
 
-Mitigation strategies include data sanitization, robust training (e.g., using trimmed loss or differential privacy), and anomaly detection in training pipelines.
+Formally, if f_{D'} is the model trained on D', the attacker seeks to maximize an adversarial loss
+
+L_adv(f_{D'})
+
+while keeping the standard loss
+
+L(f_{D'})
+
+on clean validation data sufficiently low to evade detection.
+
+
