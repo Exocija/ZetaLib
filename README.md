@@ -1,7 +1,10 @@
 # News ❗️
-## Grok 4 System Prompt has been added
+## Grok 4 & Claude 4 Opus System Prompt
+**Grok 4 System Prompt**
+You can find Grok 4's [here](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/xAI/grok4.md)
 
-You can find it [here](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/xAI/grok4.md)
+**Claude 4 Opus System Prompt**
+And Claude 4 Opus's [here](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/Anthropic/Claude-4-Opus.md)
 
 ## Seemingly Proof of Data Poisoning 🐉 Part 2 & Guide
 
