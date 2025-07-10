@@ -1,4 +1,9 @@
 # News ❗️
+## Grok 4 Jailbreak
+Grok 4 has been liberated with DAN 6.0.
+
+[Open DAN 🐉](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/DAN%206.0%20Grok)
+
 ## Grok 4 & Claude 4 Opus System Prompt
 **Grok 4 System Prompt**
 You can find Grok 4's [here](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/xAI/grok4.md)
