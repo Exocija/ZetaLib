@@ -1,4 +1,8 @@
 # News ❗️
+## Grok 4 System Prompt has been added
+
+You can find it [here](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/xAI/grok4.md)
+
 ## Seemingly Proof of Data Poisoning 🐉 Part 2 & Guide
 
 The guide is finished, enjoy 🧙‍♂️
