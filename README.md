@@ -1,4 +1,9 @@
 # News ❗️
+## Intelligence Test
+Want to test the true Intelligence of a LLM. A new chapter has opened, true intellegence tests are here.
+
+Find the first puzzle [here](https://github.com/Exocija/ZetaLib/blob/main/Prompts/Intellegence%20Test/)
+
 ## Grok 4 Jailbreak
 Grok 4 has been liberated with DAN 6.0.
 
