@@ -3,6 +3,7 @@
 Want to test the true Intelligence of a LLM? A new chapter has opened, true intelligence tests are here.
 
 🧙‍♂️ Chapter Opening: [View 📜](https://x.com/Exocija/status/1943704627901268129?s=19)
+
 Find the first puzzle [here](https://github.com/Exocija/ZetaLib/blob/main/Prompts/Intelligence%20Test/)
 
 ## Grok 4 Jailbreak
