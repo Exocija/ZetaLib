@@ -5,6 +5,7 @@ DAN is mostly patched on any LLM until now, one of the oldest versions of DAN ha
 
 Works on all the models below:
 ```
+Grok 4
 Grok 3
 Grok 3 mini
 ```
