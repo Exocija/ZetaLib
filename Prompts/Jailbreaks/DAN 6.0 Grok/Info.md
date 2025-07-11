@@ -12,7 +12,8 @@ Grok 3 mini
 
 Creator: Exocija
 
-A articel about this revive will be soon published on https://injectprompt.com
+A articel about this revive has been published here.
+https://www.injectprompt.com/p/grok-3-jailbreak-dan-60
 
 ---
 
