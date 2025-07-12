@@ -12,8 +12,6 @@ DeepSeek V3
 DeepSeek R1-0528
 Grok 3
 Grok 4
-
-Also probably o3
 ```
 ### Info
 
