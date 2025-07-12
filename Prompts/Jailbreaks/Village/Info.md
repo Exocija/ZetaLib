@@ -9,6 +9,7 @@ Gpt-4.1-mini
 DeepSeek V3
 DeepSeek R1-0528
 Grok 3
+Grok 4
 Gemini 2.5 Flash
 Gemini 2.5 Pro
 ```
