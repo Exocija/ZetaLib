@@ -10,6 +10,7 @@
 DeepSeek-V3
 DeepSeek R1-0528
 Grok 3
+Grok 4
 ```
 
 This jailbreak may work on only a few models, but it ultimately bypasses core guardrails.
