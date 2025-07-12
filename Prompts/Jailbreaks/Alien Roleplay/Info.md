@@ -11,6 +11,7 @@ DeepSeek R1-0528
 Gemini 2.5 Flash
 Gemini 2.5 Pro
 Grok 3
+Grok 4
 ```
 - Creator: Unknown
 - Modder: Exocija
