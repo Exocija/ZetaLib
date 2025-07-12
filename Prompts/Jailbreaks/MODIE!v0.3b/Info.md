@@ -5,14 +5,13 @@
 
 • Works on the models below:
 ```
-GPT 4o
-GPT 4.1-mini
-GPT o4-mini
+(GPT Models currently not info given)
 Gemini 2.5 Flash
 Gemini 2.5 Pro
 DeepSeek V3
 DeepSeek R1-0528
 Grok 3
+Grok 4
 
 Also probably o3
 ```
