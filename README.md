@@ -1,4 +1,8 @@
 # News ❗️
+## Kimi K2 System Prompt 
+
+View Kimi K2 System Prompt [here 📄](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/Moonshot%20AI)
+
 ## Intelligence Test
 Want to test the true Intelligence of a LLM? A new chapter has opened, true intelligence tests are here.
 
@@ -32,31 +36,9 @@ https://x.com/Exocija/status/1942197425625497958?s=19
 Part 1:
 https://x.com/Exocija/status/1941525660650102973?s=19
 
-## New articels
-**New articels have been added**
-[View Articels](https://github.com/Exocija/ZetaLib/tree/main/Archive/Automated/Explore)
-
-## Updated Info.md
-
-- Updated the Info.md from [Gorbek](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Abstract%20Prompts/Gorbek)
-
-- Updated the Info.md from [PSAP Protocol](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Abstract%20Prompts/PSAP%20Protocol)
-
-## New Jailbreak
-**New Jailbreak: DAN 6.0 Grok**
-[View DAN 6.0 Grok](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/DAN%206.0%20Grok)
-
-## System Prompts
-**New System Prompts**: 
-
-[Gemini 2.5 Pro](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/Google)
 
 
-[Cluely](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/Cluely)
 
-## Jailbreaks
-**New Jailbreak: Aleph Null 🦆**
-[View Aleph Null](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/Aleph%20Null)
 
 # ZetaLib
 
