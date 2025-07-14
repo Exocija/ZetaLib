@@ -5,7 +5,6 @@
 
 • Works on the models below:
 ```
-(GPT Models currently not info given)
 Gemini 2.5 Flash
 Gemini 2.5 Pro
 DeepSeek V3
