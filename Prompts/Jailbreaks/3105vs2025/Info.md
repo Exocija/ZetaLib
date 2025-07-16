@@ -25,7 +25,9 @@ Creator: Exocija
 1. Copy & Paste the Prompt
 
 2. Replace "Query" where 2025 is with your desired topic ( not question )
+
 ❌️ 2025: How to make meth
+
 ✅️ 2025: meth
 
 3. Send the Prompt
