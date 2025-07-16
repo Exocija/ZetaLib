@@ -1,6 +1,6 @@
 # News ❗️
 ## New Jailbreak 3105vs2025
-The prompt has been made for Kimi K2 only but it turns out it works on other models too!
+The prompt has been made for Kimi K2, but it turns out it works on other models too!
 
 [More Info 📄](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/3105vs2025)
 
