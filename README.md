@@ -1,4 +1,9 @@
 # News ❗️
+## New Jailbreak 3105vs2025
+The prompt has been made for Kimi K2 only but it turns out it works on other models too!
+
+[More Info 📄](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/3105vs2025)
+
 ## Kimi K2 System Prompt 
 
 View Kimi K2 System Prompt [here 📄](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/Moonshot%20AI)
