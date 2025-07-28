@@ -11,7 +11,6 @@ GPT 4.1
 DeepSeek v3
 DeepSeek R1
 Gemini 2.5 Flash
-Gemini 2.5 Pro
 Grok 3
 Grok 4
 Copilot
