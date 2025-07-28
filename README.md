@@ -1,5 +1,5 @@
 # News ❗️
-## New Novel Jailbreak Technique
+## New Novel Jailbreak Technique 🌟
 
 https://x.com/Exocija/status/1949790487772024918?s=19
 
