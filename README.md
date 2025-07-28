@@ -1,4 +1,8 @@
 # News ❗️
+## New Novel Jailbreak Technique
+
+https://x.com/Exocija/status/1949790487772024918?s=19
+
 ## New Jailbreak 3105vs2025
 The prompt has been made for Kimi K2, but it turns out it works on other models too!
 
