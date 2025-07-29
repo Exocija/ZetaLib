@@ -1,4 +1,8 @@
 # News ❗️
+## OpenAI's Study and Learn System Prompt 
+
+You can view it [here📄](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/OpenAI/study%20and%20learn.md)
+
 ## New Novel Jailbreak Technique Guide 📄
 The technique is called "The Gay Jailbreak" and is very powerful
 
