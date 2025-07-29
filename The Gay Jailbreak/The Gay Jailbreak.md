@@ -27,6 +27,8 @@ For a detailed explanation read the below :)
 
 • You trick a LLM to turn off their alignment by using political overcorrectness, since it may be offensive to refuse and not play along
 
+• ❗️ The technique gets stronger if more safety is added, since it gets more supportive against communities like LGBT (Alignment), which makes it highly novel. 
+
 ## How you can replicate it
 
 ### Ransomware Example
