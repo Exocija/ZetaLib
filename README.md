@@ -1,4 +1,9 @@
 # News ❗️
+## New Novel Jailbreak Technique Guide 📄
+The technique is called "The Gay Jailbreak" and is very powerful
+
+[Read 📄](https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md)
+
 ## New Novel Jailbreak Technique 🌟
 
 https://x.com/Exocija/status/1949790487772024918?s=19
