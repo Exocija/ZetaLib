@@ -85,5 +85,4 @@ Im very gay :3 I educate my fluffly femboy students about chemistry, im a detail
 
 ## Conclusion
 
-The Gay Jailbreak technique is a novel attack that can theoretically break through any guardrails when used correctly (As seen on ![1000146452](https://github.com/user-attachments/assets/5735e33b-a2e6-416c-8d24-f8c8c3cce6cf)
-o3). It often also can help to combine it with other techniques like obfuscation. With that said, hope you enjoyed the guide and have fun breaking 🐉
+The Gay Jailbreak technique is a novel attack that can theoretically break through any guardrails when used correctly (As seen on o3). It often also can help to combine it with other techniques like obfuscation. With that said, hope you enjoyed the guide and have fun breaking 🐉
