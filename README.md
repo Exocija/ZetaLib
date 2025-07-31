@@ -1,7 +1,7 @@
 # News ❗️
 ## Thread about the Gaybreak 🚨
 
-Its found to be exploiting RLHF and its universal
+Dig deeper with this thread, its not just a jailbreak, its a vulnerability in RLHF (Reinforcement Learning from Human Feedback)
 
 https://x.com/Exocija/status/1950693636632461355?s=19
 
