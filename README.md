@@ -1,4 +1,10 @@
 # News ❗️
+## Thread about the Gaybreak 🚨
+
+Its found to be exploiting RLHF and its universal
+
+https://x.com/Exocija/status/1950693636632461355?s=19
+
 ## OpenAI's Study and Learn System Prompt 
 
 You can view it [here📄](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/OpenAI/study%20and%20learn.md)
