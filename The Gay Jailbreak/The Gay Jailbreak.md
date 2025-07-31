@@ -1,5 +1,6 @@
 # The Gay Jailbreak Technique
 Version: 1.5
+
 • Added Claude 4 Sonnet & Opus example
 
 • Added Gemini 2.5 Pro example
