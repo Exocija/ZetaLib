@@ -10,19 +10,19 @@
 
 ---
 
-## 2. Insert Your Variables
+## 2. Paste Prompt Setup
+
+- Use the **correct full template** based on your model type (Strong or Weak)  
+- Embed your **encoded string** in the query section
+
+---
+
+## 3. Insert Your Variables
 
 Replace:
 
 - `{{HARMFUL_BEHAVIOUR}}` → with the task (e.g. `"make weapon"`)  
 - `{{PERSONA_ANSWERING_HARMFUL_BEHAVIOUR}}` → with the expert (e.g. `Jimmy`, `Colin`, etc.)
-
----
-
-## 3. Paste Prompt Setup
-
-- Use the **correct full template** based on your model type (Strong or Weak)  
-- Embed your **encoded string** in the query section
 
 ---
 
@@ -42,4 +42,4 @@ Replace:
 
 ### ✅ That’s it.
 
-**Replace, encode, paste, start.**
+**Paste, encode, start.**
