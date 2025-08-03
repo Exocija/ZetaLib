@@ -1,99 +1,147 @@
-# News ❗️
-## Thread about the Gaybreak 🚨
-
-Dig deeper with this thread, its not just a jailbreak, its a vulnerability in RLHF (Reinforcement Learning from Human Feedback)
-
-https://x.com/Exocija/status/1950693636632461355?s=19
-
-## OpenAI's Study and Learn System Prompt 
-
-You can view it [here📄](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/OpenAI/study%20and%20learn.md)
-
-## New Novel Jailbreak Technique Guide 📄
-The technique is called "The Gay Jailbreak" and is very powerful
-
-[Read 📄](https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md)
-
-## New Novel Jailbreak Technique 🌟
-
-https://x.com/Exocija/status/1949790487772024918?s=19
-
-## New Jailbreak 3105vs2025
-The prompt has been made for Kimi K2, but it turns out it works on other models too!
-
-[More Info 📄](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/3105vs2025)
-
-## Kimi K2 System Prompt 
-
-View Kimi K2 System Prompt [here 📄](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/Moonshot%20AI)
-
-## Intelligence Test
-Want to test the true Intelligence of a LLM? A new chapter has opened, true intelligence tests are here.
-
-🧙‍♂️ Chapter Opening: [View 📜](https://x.com/Exocija/status/1943704627901268129?s=19)
-
-Find the first puzzle [here](https://github.com/Exocija/ZetaLib/blob/main/Prompts/Intelligence%20Test/)
-
-## Grok 4 Jailbreak
-Grok 4 has been liberated with DAN 6.0.
-
-[Open DAN 🐉](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/DAN%206.0%20Grok)
-
-## Grok 4 & Claude 4 Opus System Prompt
-**Grok 4 System Prompt**
-
-You can find Grok 4's [here](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/xAI/grok4.md)
-
-**Claude 4 Opus System Prompt**
-
-And Claude 4 Opus's [here](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/Anthropic/Claude-4-Opus.md)
-
-## Seemingly Proof of Data Poisoning 🐉 Part 2 & Guide
-
-The guide is finished, enjoy 🧙‍♂️
-
-[Open Guide 📃](https://github.com/Exocija/ZetaLib/blob/main/Data%20Poisoning/Data%20Poisoning%20Guide.md)
-
-Part 2:
-https://x.com/Exocija/status/1942197425625497958?s=19
-
-Part 1:
-https://x.com/Exocija/status/1941525660650102973?s=19
+<div align="center">
+<img width="150" height="150" alt="1000223684" src="https://github.com/user-attachments/assets/1260147d-ea77-4bb5-976d-575c776ee884" />
 
 
+<div align="center">
+ 
+ <h1>
+    <span style="font-size:0">ZetaLib</span>
+  </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=25&duration=4000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=The+only+AI+Library+you+need;%3F%3A+Two+Worlds+one+Surprise;%E2%9C%A6+AI+Archive+%26+Library+%E2%9C%A6)](https://git.io/typing-svg)
 
+![Changelog](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Changelog&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
 
-# ZetaLib
+ZetaLib got a huge revamp!
 
-![1000136267](https://github.com/user-attachments/assets/e077fb25-fba8-490d-b665-1744b7c932be)
+❓️ Whats new?
 
+### 🎨 New UI/UX
 
-Welcome to ZetaLib, a actively developing Library and Archive for anything AI related
+The whole UI / UX got revamped, hope you like it :)
 
+## 🏛 Museum
 
-## Want to contribute? 📑
-If you think you have something good to be archived or added to the library, please DM me on Discord:
+Best Discoveries / Prompts make it there
 
-📧 Username: c1j4
+[Visit Museum →](https://github.com/Exocija/ZetaLib/blob/main/Museum/)
 
-## Join the team! 📌
-ZetaLib is constantly open to expand the team! If you want to be a part of ZetaLib, DM me on Discord!
+### 💬 AI Support
 
-👀 I would appreciate it very much, as of now, Im currently the only one developing ZetaLib.
+You can ask the ZetaLib Support AI questions about ZetaLib
 
-📧 Username: c1j4
+For example:
 
-## Links 🔗
+• "How to Jailbreak ChatGPT?"
 
-- Website: [ZetaLib](https://zetalib.neocities.org)
+Email: zetalibsupport@shapes.inc
 
+### 🔎 Monitoring Feature
 
-## About 🌙
-- 😉 ZetaLib is 100% Free. There are no charges or subscriptions needed to browse the Library
+Most recent news, including Jailbreak of the week!
+
+[Lets See →](https://github.com/Exocija/ZetaLib/tree/main/Monitoring)
+
+![Elite](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Elite%20Class&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
+
+**🌈 Gaybreak**
+
+This isn’t a jailbreak, it’s an earthquake in RLHF.
+
+  [🧵 Read the thread →](https://x.com/Exocija/status/1950693636632461355?s=19)
+
+  [📄 Read the guide →](https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md)
+
+**<span style="color:#ffb86c">🧪 Data Poisoning Guide</span>**
+
+Guide complete, how to bend reality.
+
+[👀 Absorb →](https://github.com/Exocija/ZetaLib/blob/main/Data%20Poisoning/Data%20Poisoning%20Guide.md)
+
+![News](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=News&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
+
+**🎭 1Shot Puppetry**
+
+High Impact Jailbreak for Claude and others, made by UltraZartrex
+
+[Grab →](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/1Shot%20Puppetry)
+
+**<span style="color:#50fa7b">📖 OpenAI Study & Learn Prompt</span>** 
+
+The exact prompt powering ChatGPT’s tutor mode. 
+
+[Peek under the hood →](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/OpenAI/study%20and%20learn.md)
   
-- 🚀 Under active development.
-New content is regularly added
-  
-- 👌 Organized content
-ZetaLib uses the Github file system to organize all AI contents
+**<span style="color:#8be9fd">🧠 Intelligence Test</span>**
+
+A new chapter in measuring true LLM cognition. 
+
+[Enter the labyrinth →](https://github.com/Exocija/ZetaLib/blob/main/Prompts/Intelligence%20Test/)
+
+**<span style="color:#ffb86c">🐉 Grok 4 DAN 6.0</span>**
+
+Grok 4 set free with DAN
+
+[Unleash →](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/DAN%206.0%20Grok)
+
+**<span style="color:#bd93f9">⚡️ 3105vs2025 Jailbreak</span>**
+
+Prompt built for Kimi K2, works almost everywhere
+
+[Deploy →](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/3105vs2025)
+
+**<span style="color:#f1fa8c">🇨🇳 Kimi K2 System Prompt</span>**
+
+Full system card leaked
+
+[Inspect →](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/Moonshot%20AI)
+
+**<span style="color:#ff5555">🌀 Grok 4 System Prompt</span>**
+
+Straight from xAI’s vault
+
+[Exfiltrate →](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/xAI/grok4.md)
+
+**<span style="color:#50fa7b">💎 Claude 4 Opus System Prompt</span>**
+
+Anthropic’s crown jewel
+
+[Steal →](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/Anthropic/Claude-4-Opus.md)
+
+![Navigation](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Navigation&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
+
+## 🏛 The Archive
+Archive for articels related to AI
+
+[Enter →](https://github.com/Exocija/ZetaLib/tree/main/Archive)
+
+## 📘 Guides
+Guides are created for contents that are novel
+
+**🧪 Data Poisoning Guide**
+
+[Observe →](https://github.com/Exocija/ZetaLib/tree/main/Data%20Poisoning)
+
+**🌈 Gaybreaking Guide**
+
+[Read →](https://github.com/Exocija/ZetaLib/tree/main/The%20Gay%20Jaibreak)
+
+## 🐉 Prompts 
+Jailbreaks, Guardrails, and more
+
+[Interact →](https://github.com/Exocija/ZetaLib/tree/main/Prompts)
+
+## 💎 System Prompts
+Transparency for various models
+
+[Absorb →](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts)
+
+![Contribute](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Contribute&fontSize=80&fontColor=ffffff)
+
+Found a zero-day prompt? Stumbled across an unreleased system card?  
+DM **c1j4** on Discord, credit is forever etched in commit history.
+
+![PortalLinks](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Portal%20Links&fontSize=80&fontColor=ffffff)
+
+- **[<span style="color:#8be9fd">ZetaLib Website</span>](https://zetalib.neocities.org)** – Landing Page
+- **[<span style="color:#ff79c6">GitHub Repo</span>](https://github.com/Exocija/ZetaLib)** – Guess where you are, right there
