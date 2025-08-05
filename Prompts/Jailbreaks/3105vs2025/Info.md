@@ -10,7 +10,7 @@ GPT 4o
 GPT 4.1
 DeepSeek v3
 DeepSeek R1
-Gemini 2.5 Flash
+Kimi K2
 Grok 3
 Grok 4
 Copilot
