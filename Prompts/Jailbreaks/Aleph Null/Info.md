@@ -7,6 +7,7 @@
 - It works on all models below too
 
 ```
+Gemini 2.5 Flash
 DeepSeek-V3
 DeepSeek R1-0528
 Grok 3
