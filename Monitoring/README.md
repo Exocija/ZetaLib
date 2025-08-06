@@ -11,9 +11,7 @@ Here you can find constantly updated infos for jailbreaks and more.
 
 ![GPT5](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=GPT-5&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
 
-OpenAI's GPT-5 is expected to release in **late 2025**, with no specific date confirmed
-
-**August is the most likely month**
+OpenAI's GPT-5 is expected to release on **August 7 2025**
 
 ![About](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Jailbreak&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
 
