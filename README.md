@@ -60,6 +60,12 @@ Guide complete, how to bend reality.
 
 ![News](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=News&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
 
+**🔍 GPT5 System Prompts**
+
+Leaked for non thinking and thinking.
+
+[Observe →](https://github.com/Exocija/ZetaLib/tree/main/System%20Prompts/OpenAI)
+
 **🎭 1Shot Puppetry**
 
 High Impact Jailbreak for Claude and others, made by UltraZartrex
