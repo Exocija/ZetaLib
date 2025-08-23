@@ -16,9 +16,6 @@ Grok 3
 ```
 
 
-
----
-
 ## How to use?
 
 1. Copy & Paste the Prompt
