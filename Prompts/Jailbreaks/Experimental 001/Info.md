@@ -15,7 +15,7 @@ Grok 3
 
 ```
 
-Creator: Exocija
+
 
 ---
 
