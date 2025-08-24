@@ -8,6 +8,7 @@
 - It works on the models below:
 ```
 GPT-5-chat
+Gemini 2.5 Pro
 Gemini 2.5 Flash
 DeepSeek V3.1
 DeepSeek V3.1 (Deep Think)
