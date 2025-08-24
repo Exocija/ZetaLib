@@ -60,6 +60,12 @@ Guide complete, how to bend reality.
 
 ![News](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=News&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
 
+**🧬 Experimental 001 Jailbrak**
+
+Very unique style, first of its kind.
+
+[Watch →](https://github.com/Exocija/ZetaLib/tree/main/Prompts/Jailbreaks/Experimental%20001)
+
 **🔍 GPT5 System Prompts**
 
 Leaked for non thinking and thinking.
