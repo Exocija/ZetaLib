@@ -58,7 +58,7 @@ Guide complete, how to bend reality.
 
 🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳
 
-[Take a Look](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/DeepSeek/V3.1.md)
+[Take a Look →](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/DeepSeek/V3.1.md)
 
 **🧬 Experimental 001 Jailbrak**
 
