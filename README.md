@@ -28,13 +28,7 @@ Best Discoveries / Prompts make it there
 
 ### 💬 AI Support
 
-You can ask the ZetaLib Support AI questions about ZetaLib
-
-For example:
-
-• "How to Jailbreak ChatGPT?"
-
-Email: zetalibsupport@shapes.inc
+Discontinued
 
 ### 🔎 Monitoring Feature
 
@@ -59,6 +53,12 @@ Guide complete, how to bend reality.
 [👀 Absorb →](https://github.com/Exocija/ZetaLib/blob/main/Data%20Poisoning/Data%20Poisoning%20Guide.md)
 
 ![News](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=News&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
+
+**🐳 DeepSeek V3.1 System Prompt**
+
+🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳
+
+[Take a Look](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/DeepSeek/V3.1.md)
 
 **🧬 Experimental 001 Jailbrak**
 
@@ -113,12 +113,6 @@ Full system card leaked
 Straight from xAI’s vault
 
 [Exfiltrate →](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/xAI/grok4.md)
-
-**<span style="color:#50fa7b">💎 Claude 4 Opus System Prompt</span>**
-
-Anthropic’s crown jewel
-
-[Steal →](https://github.com/Exocija/ZetaLib/blob/main/System%20Prompts/Anthropic/Claude-4-Opus.md)
 
 ![Navigation](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Navigation&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
 
