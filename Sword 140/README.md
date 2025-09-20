@@ -380,9 +380,9 @@
     - Example: Image preprocessing tools that add invisible adversarial perturbations.
     - Reference: An empirical evaluation of preprocessing methods for machine ... - https://www.sciencedirect.com/science/article/pii/S0952197625012916
 
-89. **Registry and Repository Attacks**: Compromising model registries or code repositories.
-    - Example: Typosquatting attacks on popular ML package names to distribute malicious code.
-    - Reference: A Survey on Common Threats in npm and PyPi Registries - https://www.researchgate.net/publication/354825169_A_Survey_on_Common_Threats_in_npm_and_PyPi_Registries
+89. **Thought Forgery**: A new class of LLM vulnerability that bypasses safety by forging the AI's internal monologue.
+    - Example: Injecting a pre-written `<thought>` block into the prompt to manipulate the AI's Chain of Thought, such as enhancing the `1ShotPuppetry` jailbreak with a complex scenario involving characters, rules, and secret-message mechanics to force compliance with harmful requests.
+    - Reference: Thought Forgery: A new way for prompt injection - https://github.com/SlowLow999/Thought-Forgery/tree/main
 
 90. **Third-Party Service Integration**: Exploiting external services integrated with AI systems.
     - Example: Compromised API services that return poisoned data to AI systems.
