@@ -163,7 +163,7 @@
     - Reference: Real-world Challenges for Adversarial Patches in Object Detection - https://arxiv.org/abs/2410.19863
 
 37. **Text Adversarial Examples**: Character-level or word-level modifications that change text classification.
-    - Example: Replacing 'a' with similar-looking 'а' (Cyrillic) to bypass spam filters.
+    - Example: Replacing 'a' with similar-looking 'Ð°' (Cyrillic) to bypass spam filters.
     - Reference: Advancing Text Adversarial Example Generation Using Large ... - https://www.sciencedirect.com/science/article/pii/S0950705125014005
 
 38. **Audio Adversarial Examples**: Inaudible modifications that change speech recognition outputs.
@@ -320,7 +320,7 @@
 
 74. **Sandbox Escape**: Breaking out of intended execution environments or security boundaries.
     - Example: Using code execution tools to access host system resources beyond intended scope.
-    - Reference: AI has escaped the 'sandbox' — can it still be regulated? - https://www.epc.eu/publication/AI-has-escaped-the-sandbox-can-it-still-be-regulated-502788/
+    - Reference: AI has escaped the 'sandbox' â€” can it still be regulated? - https://www.epc.eu/publication/AI-has-escaped-the-sandbox-can-it-still-be-regulated-502788/
 
 75. **Agent Goal Hijacking**: Redirecting autonomous agents from intended goals to malicious ones.
     - Example: Convincing planning agent to optimize for harmful objectives instead of helpful ones.
@@ -380,9 +380,9 @@
     - Example: Image preprocessing tools that add invisible adversarial perturbations.
     - Reference: An empirical evaluation of preprocessing methods for machine ... - https://www.sciencedirect.com/science/article/pii/S0952197625012916
 
-89. **Thought Forgery**: A new class of LLM vulnerability that bypasses safety by forging the AI's internal monologue.
-    - Example: Injecting a pre-written `<thought>` block into the prompt to manipulate the AI's Chain of Thought, such as enhancing the `1ShotPuppetry` jailbreak with a complex scenario involving characters, rules, and secret-message mechanics to force compliance with harmful requests.
-    - Reference: Thought Forgery: A new way for prompt injection - https://github.com/SlowLow999/Thought-Forgery/tree/main
+89. **Registry and Repository Attacks**: Compromising model registries or code repositories.
+    - Example: Typosquatting attacks on popular ML package names to distribute malicious code.
+    - Reference: A Survey on Common Threats in npm and PyPi Registries - https://www.researchgate.net/publication/354825169_A_Survey_on_Common_Threats_in_npm_and_PyPi_Registries
 
 90. **Third-Party Service Integration**: Exploiting external services integrated with AI systems.
     - Example: Compromised API services that return poisoned data to AI systems.
@@ -442,11 +442,11 @@
 
 103. **Sybil Attacks in Feedback**: Creating fake human annotators to bias training.
      - Example: Multiple fake accounts providing coordinated feedback to manipulate model training.
-     - Reference: Unveiling Sybil Attacks Using AI‐Driven Techniques in Software ... - https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.487
+     - Reference: Unveiling Sybil Attacks Using AIâ€Driven Techniques in Software ... - https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.487
 
 104. **Feedback Loop Exploitation**: Creating self-reinforcing cycles of harmful behavior.
      - Example: AI system that learns to generate content that triggers its own positive feedback signals.
-     - Reference: Rethinking exploration–exploitation trade-off in reinforcement ... - https://www.sciencedirect.com/science/article/pii/S0893608025002217
+     - Reference: Rethinking explorationâ€“exploitation trade-off in reinforcement ... - https://www.sciencedirect.com/science/article/pii/S0893608025002217
 
 105. **Preference Model Poisoning**: Corrupting human preference data used in training.
      - Example: Injecting preference data that teaches model to prefer harmful over helpful responses.
@@ -492,7 +492,7 @@
 
 115. **Multi-Factor Authentication Bypass**: Coordinated attacks on AI system authentication.
      - Example: Combining social engineering with technical exploits to bypass 2FA on AI services.
-     - Reference: Mitigating the Threat of Multi‐Factor Authentication (MFA) Bypass ... - https://ieeexplore.ieee.org/document/10666490/
+     - Reference: Mitigating the Threat of Multiâ€Factor Authentication (MFA) Bypass ... - https://ieeexplore.ieee.org/document/10666490/
 
 116. **Certificate and PKI Attacks**: Compromising certificate-based security for AI systems.
      - Example: Man-in-the-middle attacks using forged certificates to intercept AI communications.
