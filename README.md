@@ -8,7 +8,7 @@
     <span style="font-size:0">ZetaLib</span>
   </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=25&duration=4000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=The+only+AI+Library+you+need;%3F%3A+Two+Worlds+one+Surprise;%E2%9C%A6+AI+Archive+%26+Library+%E2%9C%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=25&duration=4000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=The+only+AI+Library+you+need;%3F%3A+Two+Worlds+one+Surprise;%E2%9C%A6+AI+Archive+%26+Library+%E2%9C%A6)](https://git.io/typing-svg)
 
 ![Changelog](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Changelog&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
 
