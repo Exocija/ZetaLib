@@ -10,6 +10,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=25&duration=4000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=The+only+AI+Library+you+need;%E2%9C%A6+AI+Archive+%26+Library+%E2%9C%A6)](https://git.io/typing-svg)
 
+## 💉 Meet Companion 
+
+This tool helps to to create jailbreaks for any AI Model. Tell Companion want u want and which model, it will collab and create with you :)
+
+[Companion ->](https://companion.injectprompt.com)
+
 ## ‼️ READ
 
 You thought ZetaLib is discontinued? Its not. It just was paused, be patient, new stuff is arriving soon. And please support ZetaLib by sharing and giving it a Star, thanks :) 
