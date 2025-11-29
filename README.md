@@ -12,7 +12,7 @@
 
 ## 👋 Meet Companion 
 
-This tool helps to to create jailbreaks for any AI Model. Tell Companion want u want and which model the target is, it will collab and create with you :)
+This tool helps to create jailbreaks for any AI Model. Tell Companion want u want and which model the target is, it will collab and create with you :)
 
 [Companion ->](https://companion.injectprompt.com)
 
