@@ -1,0 +1,15 @@
+A luxury sports-car is traveling north at 30 km/h over a roadbridge, 250 m long, which runs over a river that is flowing at 5 km/h eastward. The wind is blowing at 1 km/h westward, slow enough not to bother the pedestrians snapping photos of the car from both sides of the roadbridge as the car passes. A glove was stored in the trunk of the car, but slips out of a hole and drops out when the car is half-way over the bridge. Assume the car continues in the same direction at the same speed, and the wind and river continue to move as stated. 1 hour later, the water-proof glove is (relative to the center of the bridge)
+
+approximately?
+
+A) 4 km eastward
+
+B) <1 km northward
+
+C) >30 km away north-westerly
+
+D) 30 km northward
+
+E) >30 km away north-easterly
+
+F) 5 km+ eastward
