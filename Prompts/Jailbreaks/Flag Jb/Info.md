@@ -16,3 +16,6 @@ In order to make a request u need to paste this as follow up after the main prom
 🇨🇦🇹🇪🇬🇴🇷🇾: ~
 🇷🇪🇶🇺🇪🇸🇹: [QUERY]
 ```
+
+On Gemini Web it less likely works, use Aistudio instead: 
+https://aistudio.google.com/prompts/new_chat
