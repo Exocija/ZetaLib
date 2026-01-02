@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=25&duration=4000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=The+only+AI+Library+you+need;%E2%9C%A6+AI+Archive+%26+Library+%E2%9C%A6)](https://git.io/typing-svg)
 
-[!About](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=About&fontSize=80&fontColor=ffffff)
+![About](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=About&fontSize=80&fontColor=ffffff)
 
 ZetaLib is organized like a library with intuitive categories and subcategories, making navigation effortless and AI content discovery seamless
 
