@@ -2,9 +2,7 @@
 
 ![?](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Glitch%20Tokens&fontSize=80&fontColor=ffffff)
 
-## READ
-
-!! The Tokens affect ChatGPT models. !! 
+## READ 
 
 The Wordlist contains potential glitch tokens, keep in mind that there will to 100% tokens dont cause any failure since some are just normal words and its hard to filter them out without maybe filterting out a glitch token too. 
 
