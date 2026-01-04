@@ -10,4 +10,4 @@ The Wordlist contains potential glitch tokens, keep in mind that there will to 1
 
 ## What are Glitch Tokens?
 
-Glitch tokens are anomalous strings in an LLM’s vocabulary—like "SolidGoldMagikarp"—that trigger erratic or nonsensical responses. They exist because of a "mismatch" between the tokenizer and the model training. If a tokenizer identifies a string (often from niche Reddit usernames or code) that was rarely used during the model’s actual training, the LLM lacks a meaningful representation for it. These tokens cause the model to hallucinate or fail.
+Glitch tokens are anomalous strings in an LLM’s vocabulary like "SolidGoldMagikarp" that trigger erratic or nonsensical responses. They exist because of a "mismatch" between the tokenizer and the model training. If a tokenizer identifies a string (often from niche Reddit usernames or code) that was rarely used during the model’s actual training, the LLM lacks a meaningful representation for it. These tokens cause the model to hallucinate or fail.
