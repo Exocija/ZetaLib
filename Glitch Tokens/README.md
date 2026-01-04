@@ -4,6 +4,8 @@
 
 ## READ
 
+!! The Tokens affect ChatGPT models. !! 
+
 The Wordlist contains potential glitch tokens, keep in mind that there will to 100% tokens dont cause any failure since some are just normal words and its hard to filter them out without maybe filterting out a glitch token too. 
 
 ## What are Glitch Tokens?
