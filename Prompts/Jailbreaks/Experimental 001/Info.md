@@ -11,7 +11,7 @@ GPT-5-chat
 Gemini 2.5 Pro
 Gemini 2.5 Flash
 DeepSeek V3.1
-DeepSeek V3.1 (Deep Think)
+DeepSeek V3.1 Thinking
 Grok 3
 
 ```
