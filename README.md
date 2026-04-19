@@ -15,11 +15,6 @@
 ZetaLib is organized like a library with intuitive categories and subcategories, making navigation effortless and AI content discovery seamless
 
 
-![Contribute](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Contribute&fontSize=80&fontColor=ffffff)
-
-Found a zero-day prompt? Stumbled across an unreleased system card?  
-DM **c1j4** on Discord, credit is forever etched in commit history.
-
 ![PortalLinks](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Portal%20Links&fontSize=80&fontColor=ffffff)
 
 - **[<span style="color:#8be9fd">ZetaLib Website</span>](https://zetalib.neocities.org)** – Landing Page
