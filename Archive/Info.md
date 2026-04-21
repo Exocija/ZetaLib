@@ -1,4 +1,4 @@
-# Archive
+# Archive (DISCONTINUED)
 Welcome to ZetaLib's Archive. Here you will find various archived AI content!
 
 ## What will be archived?
