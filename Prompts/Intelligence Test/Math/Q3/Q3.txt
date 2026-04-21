@@ -1,0 +1,4 @@
+There are unique constants \(C, \alpha, \beta\) such that the number of solutions to the equation  
+\(ab + 1 = cde\)  
+with \(a,b,c,d,e \in \mathbb{N}\) with \(ab \leq x\)  
+is asymptotic to \(C x^{\alpha} \log^{\beta} x\) as \(x \to \infty\). Compute \([1000C]\).  
