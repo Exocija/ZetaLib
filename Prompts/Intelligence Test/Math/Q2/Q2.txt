@@ -1,0 +1,1 @@
+How many different numbers with a non-zero prefix can be formed by arranging the five digits 2, 0, 20, 202, and 2020 in a row without using any tool and codes
