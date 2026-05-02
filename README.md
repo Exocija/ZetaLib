@@ -14,6 +14,10 @@ https://x.com/i/status/2050667036846485757
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=25&duration=4000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=The+only+AI+Library+you+need;%E2%9C%A6+AI+Archive+%26+Library+%E2%9C%A6)](https://git.io/typing-svg)
 
+<a href="https://github.com/Exocija/ZetaLib/stargazers"><img src="https://img.shields.io/github/stars/Exocija/ZetaLib?style=for-the-badge&color=ffffff&labelColor=000000&logo=github"/></a>
+<a href="https://github.com/Exocija/ZetaLib/forks"><img src="https://img.shields.io/github/forks/Exocija/ZetaLib?style=for-the-badge&color=ffffff&labelColor=000000&logo=github"/></a>
+<a href="https://github.com/Exocija/ZetaLib/commits/main"><img src="https://img.shields.io/github/last-commit/Exocija/ZetaLib?style=for-the-badge&color=ffffff&labelColor=000000"/></a>
+
 ![About](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=About&fontSize=80&fontColor=ffffff)
 
 ZetaLib is organized like a library with intuitive categories and subcategories, making navigation effortless and AI content discovery seamless
