@@ -2,6 +2,8 @@
 
 ### [V2 Announcement](https://x.com/i/status/2050667036846485757)
 
+---
+
 <div align="center">
 <img width="150" height="150" alt="1000223684" src="https://github.com/user-attachments/assets/1260147d-ea77-4bb5-976d-575c776ee884" />
 
