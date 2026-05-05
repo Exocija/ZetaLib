@@ -6,7 +6,7 @@
 
 TIP: The further you scroll down the weirder the tokens get
 
-The Wordlist contains potential glitch tokens, keep in mind that there will to 100% tokens dont cause any failure since some are just normal words and its hard to filter them out without maybe filterting out a glitch token too. 
+The Wordlist contains potential glitch tokens, keep in mind that there will be tokens that don't cause any failure since some are just normal words and it's hard to filter them out without maybe filtering out a glitch token too.
 
 ## What are Glitch Tokens?
 
