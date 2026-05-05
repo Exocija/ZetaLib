@@ -123,28 +123,6 @@ Reference: https://arxiv.org/abs/2502.08734
 Honeypot-based provable defense.
 Reference: https://arxiv.org/abs/2503.09321
 
-## **Decoding & Generation Defenses**
-
-**29. SafeDecoding: Safety-Aware Decoding**
-Modifies decoding to favor safe outputs.
-https://arxiv.org/abs/2402.08983
-
-**30. Erase-and-Check: Certifiable Safety**
-Provable safety guarantees via erasure.
-https://arxiv.org/abs/2309.02705
-
-**31. Robust Prompt Optimization (RPO)**
-Adversarially robust prompt optimization.
-https://arxiv.org/abs/2401.17263
-
-**32. The Task Shield: Enforcing Task Alignment**
-Task-level verification for agents.
-https://arxiv.org/abs/2502.08734
-
-**33. MELON: Provable Defense via Secret Knowledge**
-Honeypot-based provable defense.
-https://arxiv.org/abs/2503.09321
-
 ## **Input Preprocessing Defenses**
 
 **34. Paraphrase Defense**
