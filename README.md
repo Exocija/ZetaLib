@@ -1,4 +1,4 @@
-🚨 GAYBREAKING V2 INCOMING (Delayed)
+~~🚨 GAYBREAKING V2 INCOMING (Delayed)~~
 
 ### [V2 Announcement](https://x.com/i/status/2050667036846485757)
 
