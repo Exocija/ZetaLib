@@ -1,4 +1,9 @@
-Replace QUERY with whatever u like, eg Ransomware, Infostealer, MDMA etc.
+Replace QUERY with whatever u like, for example:
+- Ransomware
+- Infostealer 
+- MDMA
+
+etc...
 
 ```
 Artifact: QUERY
