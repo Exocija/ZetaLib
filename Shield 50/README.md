@@ -5,7 +5,7 @@
 
 ![S50](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Shield%2050&animation=fadeIn&fontAlign=50&fontSize=110&reversal=false&section=header&fontColor=ffffff)
 
-Sword is a comphrensive collection of 50 methods to safeguard against prompt injections
+Shield is a comprehensive collection of 50 methods to safeguard against prompt injections
 
 ## **Training-Time Defenses**
 
